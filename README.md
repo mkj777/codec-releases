@@ -23,3 +23,4 @@ Windows 10 or later
 ### Development
 Codec is a C# WinUI 3 Project using .NET 9.0  
 using Inno Setup for creating the installer  
+thanks to @Deadlock-too for the npm package to use howlongtobeat API
