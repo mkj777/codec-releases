@@ -8,7 +8,7 @@ Codec is a Lightweight Game Library Client. Hopefully a Place for everything you
 
 ### Features
 Scanning your PC for all your Games  
-Viewing Details about your Games, and launching them through Codec
+Viewing Details about your Games, and launching them through Codec  
 Finding Game Folders and adding Launch Scripts 
 Launching Games directly through Codec  
 
